@@ -2,7 +2,7 @@
 
 ++++
 <br>
-<img align="left" role="left" src="https://learning.oreilly.com/library/cover/9781492077107/" width="110" alt="Book Cover" />
+<img align="left" role="left" src="https://learning.oreilly.com/library/cover/9781492077107/" width="110" alt="Book Cover new" />
 ++++
 Source code for book https://get.oreilly.com/ind_getting-started-with-bazel.html["Getting Started with Bazel"], published by Benjamin Muschko for O'Reilly Media Inc.
 
